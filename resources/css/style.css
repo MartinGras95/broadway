@@ -1,0 +1,13 @@
+body{text-align: center; font-family: Helvetica; font-size: 14px;
+}
+
+h1{font-size: 70px; font-weight: bold; color: white;}
+
+nav a{font-size: 18px;  color: white;}
+
+#header{background-image: url("../images/background.png");}
+
+h2 {font-size: 32px;  font-weight: bold;}
+h3{font-size: 23px; font-weight: bold;}
+
+#footer{text-align: left; background-color: dimgray;}
